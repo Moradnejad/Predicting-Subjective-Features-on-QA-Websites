@@ -1,6 +1,6 @@
 # Predicting Subjective Features from Questions on QA Websites using BERT
 
-Implementation for the paper "Predicting Subjective Features from Questions on QA Websites using BERT", which has been accepted by ICWR'2020. https://arxiv.org/abs/2002.10107
+Implementation of "Predicting Subjective Features from Questions on QA Websites using BERT" paper, presented in ICWR'2020. https://arxiv.org/abs/2002.10107
 
 ## Abstract
 
