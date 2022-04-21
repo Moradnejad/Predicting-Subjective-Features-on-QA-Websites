@@ -1,10 +1,12 @@
 Implementation for the paper "Predicting Subjective Features from Questions on QA Websites using BERT", which has been accepted by ICWR'2020. https://arxiv.org/abs/2002.10107
 
-### Required data
+### Related data
 
 https://www.kaggle.com/datasets/akensert/sacremoses
 
 https://www.kaggle.com/datasets/akensert/bert-base-uncased-huggingface-transformer
+
+https://www.kaggle.com/competitions/google-quest-challenge
 
 # Predicting Subjective Features from Questions on QA Websites using BERT
 
